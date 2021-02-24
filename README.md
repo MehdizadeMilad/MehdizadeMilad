@@ -1,6 +1,6 @@
 👋 Hi, I'm Milad,
 
- 🧞 Its about 7 years I'm translating business requirements into a Computer software 💻 and I along with the client, enjoy doing it 😇 
+ 🧞 Its about 7 years I'm translating business requirements into a Computer software 💻 and I along with my clients, enjoy doing it 😇 
 
 <b>By using these tools: </b>
 <br>
