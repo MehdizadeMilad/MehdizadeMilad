@@ -43,4 +43,4 @@ Currently I live in Iran and work at <a href="https://cafebazaar.ir/app/com.akaf
 <br>
 📝 I've written an article about <a href="https://www.linkedin.com/pulse/secure-coding-last-line-defense-cybersecurity-milad-mehdizade/">Secure Coding - The last line of defense in CyberSecurity</a>
 <br>
-📝 another one about <a href="https://www.linkedin.com/pulse/running-redis-postgres-docker-cheat-sheet-milad-mehdizade">Setting up a development environment using Docker</a>
+🎁 A cheat-sheet for <a href="https://www.linkedin.com/pulse/running-redis-postgres-docker-cheat-sheet-milad-mehdizade">Setting up a development environment using Docker</a>
