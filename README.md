@@ -16,11 +16,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Git" title="Git" src="https://user-images.githubusercontent.com/1680157/87443755-49c6ff80-c5cc-11ea-954a-579f7c72873a.png" height="24">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Git" title="Splunk" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5z8Mf5B52l1fmwJa4GlQIY_J25psbPgDKxQ&usqp=CAU" height="24">
+<img alt="Splunk" title="Splunk" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5z8Mf5B52l1fmwJa4GlQIY_J25psbPgDKxQ&usqp=CAU" height="24">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Git" title="RedHat-based Linux Server" src="https://www.wapt.fr/en/doc/_images/redhat.png" height="24">
+<img alt="RedHat-based Linux Server" title="RedHat-based Linux Server" src="https://www.wapt.fr/en/doc/_images/redhat.png" height="24">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img alt=" title=" title="Sublime Text 3" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/sublime-text-icon.png" height="24">
+<img alt="Sublime Text 3" title="Sublime Text 3" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/sublime-text-icon.png" height="24">
 
 <b>Also I'm familiar with the followings but not experienced YET:</b>
 <br>
@@ -33,7 +33,7 @@
 <img alt=" title=" title="GraphQL" src="https://cdn.jsdelivr.net/npm/graphql-playground-react/build/logo.png" height="34">
 
 
-Currently I live in Iran and work at <a href="https://cafebazaar.ir/app/com.akaf.quiztion?l=en"> Quiztion </a> Remotely.
+Currently I live in Iran and work with <a href="https://cafebazaar.ir/app/com.akaf.quiztion?l=en"> Quiztion </a> Remotely.
 
 ⚡ Fun fact: sometimes I feel appreciation to Computer for what it does for me 🤗
 <br>
