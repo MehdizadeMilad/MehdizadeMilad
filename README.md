@@ -6,9 +6,9 @@
 <br>
 <img alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png" height="24">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img alt=" title=" title="Node.js" src="https://user-images.githubusercontent.com/1680157/87443758-4a5f9600-c5cc-11ea-8f63-92e126a1145b.png" height="24">
+<img alt="Node.js" title="Node.js" src="https://user-images.githubusercontent.com/1680157/87443758-4a5f9600-c5cc-11ea-8f63-92e126a1145b.png" height="24">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img alt=" title=" title="PostgreSQL" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png" height="24">
+<img alt="PostgreSQL" title="PostgreSQL" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png" height="24">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Flutter" title="Docker" src="https://files.virgool.io/upload/users/201814/posts/pkyizzvm5tod/nuunumtkusdi.png" height="24">
 &nbsp;&nbsp;&nbsp;&nbsp;
