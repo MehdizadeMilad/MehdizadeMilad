@@ -1,6 +1,8 @@
-👋 Hi, I'm Milad,
+Hi, this is Milad 👋
 
- 🧞 Its about 7 years I'm translating business requirements into a Computer software 💻 and I along with my clients, enjoy doing it 😇 
+ 🧞 I started Business Development with C# and after 4 years of development, jumped to Software Security as a Software Vulnerability Analyst at a Telecommunication Company, then for the last 2 years I've been creating products and scaling using Node.JS. <br>
+Making new products, Improving it (security/performance/scale) makes me feel fulfilled.
+<br>
 
 <b>By using these tools: </b>
 <br>
@@ -39,7 +41,7 @@ Currently I live in Iran and work with <a href="https://cafebazaar.ir/app/com.ak
 <br>
 🧑📚 I'm very interested in debugging and making things better 🥲
 <br>
-🤝 I’m looking to collaborate on OpenSource Community, for start I reported an issue in <a href="https://github.com/microsoft/vscode/issues/116155">vscode</a>
+🤝 I’m looking to collaborate on OpenSource Community, for start I reported an issue in <a href="https://github.com/microsoft/vscode/issues/116155">vscode</a> and a <a href="https://github.com/uNetworking/uWebSockets.js/pull/566">PR</a> in <a href="https://github.com/uNetworking/uWebSockets.js">uWebSocket.JS</a> library that I use for my projects.
 <br>
 📝 I've written an article about <a href="https://www.linkedin.com/pulse/secure-coding-last-line-defense-cybersecurity-milad-mehdizade/">Secure Coding - The last line of defense in CyberSecurity</a>
 <br>
